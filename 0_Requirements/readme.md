@@ -19,12 +19,15 @@ Strengths
   4. Low cost and Robust system.
   
 Weakness
+
   Its only applicable for those countries which are having low temperature.
   
 Opportunities
+
  It can be implemented by having both Heater and AC.
  
 Threats
+
  Not suitable for average or high temperature places.
  
 4W's and 1'H
