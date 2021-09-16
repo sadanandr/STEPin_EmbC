@@ -28,6 +28,9 @@ Threats
  Not suitable for average or high temperature places.
  
 4W's and 1'H
+
 WHAT : STEPin_EmbC
+
 WHERE : Used in Automotive Industries
+
 WHEN : At low Temperature
