@@ -9,7 +9,7 @@ void Init_Time()
 
 void PWM(uint16_t temp)
 {
-    Init_Timer();
+    Init_Time();
     if(temp>=0 && temp<=200){
             OCR1A = PWM_20_PERCENT;
              USARTWrite(temp);
