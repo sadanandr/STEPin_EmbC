@@ -12,17 +12,17 @@ Now-days everyone is looking for automation and advancements in all the sectors.
 6. Modular Approach.
 
 # SWOT- Strengths, and Weakness, Opportunities Threats
-# ** Strengths**
+# **Strengths**
   1. User Friendly
   2. Easy to alter the temperature inside the vehicles.
   3. Modular Approach
   4. Low cost and Robust system.
 
-# ** Weakness**
+# **Weakness**
 It's only applicable for those countries which are having low temperature.
-# ** Opportunities**
+# **Opportunities**
 It can be implemented by having both Heater and AC.
-# ** Threats**
+# **Threats**
 Not suitable for average or high temperature places.
 
 ## 4W's and 1'H
